@@ -1,14 +1,13 @@
-# Hi, I'm Mehak Pathania 👋
+# Hi, I'm Mehak Pathania 🙎🏻‍♀️
 
 🎓 BCA Student at Sri Sai University, Palampur
 
-## 💫 About Me
-- 💻 Passionate about Software Development
-- 🌱 Currently learning Java, Python, SQL & Data Structures
-- 🚀 Building practical projects to improve my skills
-- 📚 Always curious to learn new technologies
+## 🌱 About Me
 
-## 🛠️ Tech Stack
+I'm a BCA student who enjoys learning technology and exploring different areas of computer science. I'm currently building my foundation through programming, databases, and practical projects while discovering the field that interests me the most.
+
+## 💻 Currently Learning
+
 - C
 - C++
 - Java
@@ -16,11 +15,12 @@
 - SQL
 - DBMS
 - Git & GitHub
-- MS Excel
 
-## 🎯 Career Goal
-To become a skilled Software Developer by continuously learning, building projects, and gaining practical experience.
+## 🎯 My Goal
 
-## 📫 Connect with Me
-- 📧 Email: pathaniamehak07@gmail.com
-- 📍 Palampur, Himachal Pradesh, India
+To continuously learn, improve my technical skills, and gain practical experience through projects and real-world applications.
+
+## 📫 Contact
+
+📧 pathaniamehak07@gmail.com
+📍 Palampur, Himachal Pradesh, India
