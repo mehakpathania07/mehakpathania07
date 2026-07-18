@@ -25,6 +25,22 @@ I'm exploring different areas of computer science to discover the field I'm most
 - Improving problem-solving skills
 - Growing step by step as a computer science student
 
+## 💻 Skills
+
+**Programming Languages :
+- C
+- C++
+- Java
+- Python
+
+**Database:
+- SQL
+- DBMS
+
+**Tools: 
+- Git
+- GitHub
+
 ## 📫 Contact
 
 📧 pathaniamehak07@gmail.com
