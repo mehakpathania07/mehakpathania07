@@ -1,4 +1,4 @@
-# Hi, I'm Mehak Pathania 🙎🏻‍♀️
+# Hi, I'm Mehak Pathania.
 
 🎓 BCA Student at Sri Sai University, Palampur
 
@@ -6,19 +6,24 @@
 
 I'm a BCA student who enjoys learning technology and exploring different areas of computer science. I'm currently building my foundation through programming, databases, and practical projects while discovering the field that interests me the most.
 
-## 💻 Currently Learning
+## 🚀 What I'm Exploring
 
-- C
-- C++
-- Java
-- Python
-- SQL
-- DBMS
-- Git & GitHub
+- Programming Fundamentals
+- Problem Solving
+- Database Management
+- Web Technologies
+- Software Testing
+- Cybersecurity Basics
+- Artificial Intelligence Basics
 
-## 🎯 My Goal
+I'm exploring different areas of computer science to discover the field I'm most passionate about.
 
-To continuously learn, improve my technical skills, and gain practical experience through projects and real-world applications.
+## 📌 Current Focus
+- Strengthening programming concepts
+- Building small practical projects
+- Learning Git & GitHub
+- Improving problem-solving skills
+- Growing step by step as a computer science student
 
 ## 📫 Contact
 
