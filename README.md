@@ -1,114 +1,153 @@
-# 👋 Hi, I'm Mehak Pathania!
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Learning+%26+Building+Every+Day+%F0%9F%8C%B1;Welcome+to+my+GitHub!+%F0%9F%91%8B" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Mehak+Pathania;BCA+Student+%7C+Aspiring+Developer;Exploring+AI+%26+Web+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehakpathania07&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-</p>
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=mehakpathania07&color=6C63FF&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehak-pathania-518294422)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehakpathania07)
 
-## 👩‍💻 About Me
+</div>
 
-🎓 I'm a **BCA student** passionate about technology and software development.
+<br/>
 
-💻 I enjoy learning programming, building projects and exploring different areas of technology.
+<div align="center">
 
-🌱 Currently improving my skills in **Python, Web Development, Git & GitHub**.
+### 🌱 About Me
 
-🚀 My goal is to keep learning, build useful projects and grow as a developer.
+</div>
 
----
+- 🎓 I'm a **BCA student** at **Sri Sai University, Palampur**
+- 🚀 A beginner/fresher currently building my **skills and portfolio**
+- 💻 Interested in **Software Development**, **Web Development**, and **Artificial Intelligence**
+- 🤖 Exploring how **AI** can be used to build useful, real-world applications
+- 📚 Continuously learning and improving my programming and development skills
+- 🛠️ I enjoy building projects and learning through practical, hands-on work
 
-## 🛠️ Tech Stack
+<br/>
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+### 🧠 Areas of Interest
 
-### 🌐 Web Development
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+<div align="center">
 
-### 🔧 Tools & Technologies
+| 💡 Software Development | 🌐 Web Development | 🤖 Artificial Intelligence | 🧩 Problem Solving |
+|:---:|:---:|:---:|:---:|
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 What I'm Currently Doing
+<div align="center">
 
-* 🌱 Learning and improving my programming skills
-* 💻 Building beginner-friendly projects
-* 🌐 Exploring Web Development
-* 🐍 Practicing Python
-* 🔥 Improving my GitHub portfolio
-* 📚 Strengthening my Computer Science fundamentals
+### 🛠️ Tech Stack
 
----
+</div>
 
-## 📌 Featured Project
+<div align="center">
 
-### 🏠 PG Room Finder
+**Programming Languages**
 
-A project designed to help students find suitable **PG/room options** more easily.
+<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Programming Languages" />
 
-🔨 **Status:** In Development
+**Web Development**
 
----
+<img src="https://skillicons.dev/icons?i=html,css" alt="Web Development" />
 
-## 📊 GitHub Stats
+**Tools & Concepts**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehakpathania07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakpathania07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 
----
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-6C63FF?style=for-the-badge)
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehakpathania07&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🌱 My Learning Journey
+### 🤖 Exploring Artificial Intelligence
 
-```text
-Learn → Build → Make Mistakes → Improve → Repeat 🔁
-```
+</div>
 
-> "Small progress is still progress." 🌱
+<div align="center">
 
----
+I'm genuinely excited about **Artificial Intelligence** and its potential to solve real-world problems.
 
-## 🤝 Let's Connect
+I'm not an AI expert — I'm a learner who is actively exploring how intelligent technologies work and how they can be applied to build meaningful, practical solutions.
 
-<p>
-  <a href="https://github.com/mehakpathania07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mehak-pathania-518294422">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+*Curious. Learning. Building step by step.* 🌱
 
----
+</div>
 
-<p align="center">
-  ✨ Thanks for visiting my profile! ✨
-</p>
+<br/>
 
-<p align="center">
-  ⭐ Feel free to explore my repositories!
-</p>
+<div align="center">
+
+### 📖 Currently Learning
+
+</div>
+
+<div align="center">
+
+![Learning](https://img.shields.io/badge/Data%20Structures-in%20progress-FFB86C?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Web%20Development-in%20progress-6C63FF?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Artificial%20Intelligence-exploring-4ADE80?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚧 Featured Project
+
+</div>
+
+<table align="center">
+<tr>
+<td width="600">
+
+**🏠 PG Room Finder**
+
+A project idea focused on helping students find suitable PG/room options more easily.
+
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+✨ **More projects coming soon...** ✨
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/mehak-pathania-518294422">
+  <img src="https://img.shields.io/badge/LinkedIn-Mehak%20Pathania-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/mehakpathania07">
+  <img src="https://img.shields.io/badge/GitHub-mehakpathania07-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+💬 *"Every expert was once a beginner. Currently working on the beginner part."* 🌱
+
+</div>
