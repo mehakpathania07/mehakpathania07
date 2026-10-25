@@ -1,159 +1,120 @@
+
+<!-- ═══════════════ PINK & LAVENDER HEADER ═══════════════ -->
+
 <div align="center">
 
-<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=210&section=header&text=Mehak%20Pathania&fontSize=48&fontColor=6B3A70&animation=fadeIn&fontAlignY=36&desc=BCA%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=15&descAlignY=58" width="100%" alt="Pink and lavender animated header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,30:1E1040,65:4C1D95,100:06B6D4&height=260&section=header&text=MEHAK%20PATHANIA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20BCA%20Student%20%7C%20AI%20Explorer&descAlignY=61&descSize=18&animation=twinkling" width="100%"/>
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=23&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile+%F0%9F%92%97;Learning%2C+building+and+growing+%E2%9C%A8;Turning+ideas+into+projects+%F0%9F%8C%B8;Exploring+the+world+of+software+development" alt="Animated typing introduction"/>
 
-<!-- TYPING ANIMATION -->
+<br/>
 
-<a href="https://github.com/mehaklol">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Turning+Ideas+into+Working+Projects+%E2%9C%A8;Python+%7C+Web+Development+%7C+AI;Building+Practical+Solutions+%F0%9F%92%A1;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
-
+<a href="https://github.com/mehakpathania07">
+  <img src="https://img.shields.io/badge/GitHub-Mehak%20Pathania-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-
-<br><br>
-
-<!-- SOCIAL LINKS -->
-
-<a href="https://github.com/mehaklol">
-<img src="https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<a href="https://github.com/mehakpathania07?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Projects-F9A8D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/mehak-pathania-518294422">
-<img src="https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Development-06B6D4?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-4C1D95?style=flat-square&logo=leetcode&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🌷 About Me
 
-## ✦ Hello, I'm Mehak 👋
+Hi! I'm **Mehak Pathania**, a Bachelor of Computer Applications (BCA) student with an interest in software development and building practical projects.
 
-### BCA Student • Developer • Curious Mind
+- 🎓 Currently pursuing BCA.
+- 💻 Exploring programming and software development.
+- 🐍 Working with Python, C and C++.
+- 🛠️ Learning through hands-on projects and experimentation.
+- 🔥 Exploring Firebase, Git and GitHub.
+- 🌱 Focused on improving my coding and problem-solving skills.
 
-</div>
-
-I'm a **BCA student passionate about technology, software development, and building things that solve real problems.**
-
-I enjoy learning through hands-on projects and experimenting with different technologies. I'm particularly interested in **Web Development, Python, and Artificial Intelligence**, and I'm continuously working on improving my development and problem-solving skills.
-
-<div align="center">
-
-> **Learn → Build → Experiment → Improve → Repeat.**
-
-</div>
+I believe in learning by building, improving step by step, and making technology useful.
 
 ---
 
-## 🧠 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 What I Do
-
-- 🐍 Explore Python & programming
-- 🌐 Build web-based projects
-- 🧩 Work on practical problem-solving
-- 🔧 Use Git & GitHub for development
-- 📚 Learn new technologies through projects
-
-</td>
-
-<td width="50%">
-
-### 🤖 What Interests Me
-
-- Artificial Intelligence
-- Web Development
-- Software Development
-- Real-world problem solving
-- Building useful applications
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" alt="Python, C and C++"/>
 
-<br><br>
+### Tools & Technologies
 
-### Web & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C-0B1020?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C++-0B1020?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS%20Code-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=light" alt="Git, GitHub, VS Code and Firebase"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🎀 Featured Projects
 
 <div align="center">
 
-# 🏘️ Local Services Provider
+<a href="https://mehakpathania07.github.io/Stayfind-app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakpathania07&repo=Stayfind-app&theme=default&bg_color=FFF7FC&title_color=C084FC&icon_color=F472B6&text_color=6B526B&border_color=E9D5FF" alt="Stayfind project card"/>
+</a>
 
-### *Connecting people with useful local services.*
-
-<br>
-
-<img src="https://img.shields.io/badge/PROJECT-COMPLETED-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TYPE-WEB%20PROJECT-7C3AED?style=for-the-badge"/>
+<a href="https://github.com/mehakpathania07/Local-link">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakpathania07&repo=Local-link&theme=default&bg_color=FFF7FC&title_color=C084FC&icon_color=F472B6&text_color=6B526B&border_color=E9D5FF" alt="Local-link project card"/>
+</a>
 
 </div>
 
-### 💡 The Problem
+**Stayfind** — A stay and accommodation discovery project.
 
-Finding reliable and nearby service providers can be difficult, especially in areas where people may have limited access to different services.
+**Local-link** — A local services discovery project.
 
-Sometimes, even for a simple task, people may need to travel to a nearby town or city just to find the right person.
+<a href="https://github.com/mehakpathania07?tab=repositories">
+  <img src="https://img.shields.io/badge/More%20Projects-Explore%20Repositories-E9D5FF?style=for-the-badge&logo=github&logoColor=6B3A70" alt="More projects"/>
+</a>
 
-### 💭 The Solution
+---
 
-The **Local Services Provider** project is designed around a simple idea:
+## 📊 GitHub Statistics
 
-> **Make it easier for people to discover local services in one place.**
+<div align="center">
 
-The project focuses on creating a convenient and user-friendly experience for finding relevant service providers.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehakpathania07&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=C084FC&icon_color=F472B6&text_color=6B526B&rank_icon=github" alt="GitHub statistics"/>
 
-### ✨ Key Focus
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakpathania07&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=6B526B" alt="Most used programming languages"/>
 
-```text
-🔎 Discover local services
-📍 Focus on nearby providers
-🧩 Solve a real-world problem
-🎨 Keep the experience simple
-⚡ Make information easier to access
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mehakpathania07&hide_border=true&background=FFF7FC&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=6B526B&currStreakNum=6B526B&sideNums=6B526B&dates=9CA3AF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Garden
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mehakpathania07/mehakpathania07/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+*Keep learning. Keep building. Keep growing.* 🌸
+
+<a href="https://github.com/mehakpathania07">
+  <img src="https://img.shields.io/badge/Let's%20Connect-on%20GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=100&section=footer" width="100%" alt="Lavender footer"/>
+
+</div>
