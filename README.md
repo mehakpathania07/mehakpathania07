@@ -1,120 +1,123 @@
 
-<!-- ═══════════════ PINK & LAVENDER HEADER ═══════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=210&section=header&text=Mehak%20Pathania&fontSize=48&fontColor=6B3A70&animation=fadeIn&fontAlignY=36&desc=BCA%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=15&descAlignY=58" width="100%" alt="Pink and lavender animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=220&section=header&text=Mehak%20Pathania&fontSize=48&fontColor=754477&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=15&descAlignY=58" width="100%" alt="Pink lavender animated header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97;Building+projects%2C+one+step+at+a+time+%E2%9C%A8;Learning+%7C+Creating+%7C+Growing+%F0%9F%8C%B7" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=23&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile+%F0%9F%92%97;Learning%2C+building+and+growing+%E2%9C%A8;Turning+ideas+into+projects+%F0%9F%8C%B8;Exploring+the+world+of+software+development" alt="Animated typing introduction"/>
-
-<br/>
-
-<a href="https://github.com/mehakpathania07">
-  <img src="https://img.shields.io/badge/GitHub-Mehak%20Pathania-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/mehakpathania07?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Projects-F9A8D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
+<img src="https://img.shields.io/badge/Curious%20Mind-FFC6E5?style=for-the-badge&labelColor=FFF0F7&color=E9D5FF" alt="Curious mind"/>
+<img src="https://img.shields.io/badge/Creative%20Coder-E9D5FF?style=for-the-badge&labelColor=FFF0F7&color=FBCFE8" alt="Creative coder"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+<div align="center">
 
-Hi! I'm **Mehak Pathania**, a Bachelor of Computer Applications (BCA) student with an interest in software development and building practical projects.
+## 🌷 A Little About Me
 
-- 🎓 Currently pursuing BCA.
-- 💻 Exploring programming and software development.
+</div>
+
+Hey! I'm **Mehak Pathania**, a BCA student interested in software development and creating useful, practical projects.
+
+- 🎓 Currently pursuing Bachelor of Computer Applications.
+- 💻 Exploring programming and application development.
 - 🐍 Working with Python, C and C++.
-- 🛠️ Learning through hands-on projects and experimentation.
-- 🔥 Exploring Firebase, Git and GitHub.
-- 🌱 Focused on improving my coding and problem-solving skills.
-
-I believe in learning by building, improving step by step, and making technology useful.
+- 🔥 Exploring Firebase and GitHub.
+- 🌱 Learning through hands-on projects and continuous practice.
+- ✨ Believing that small steps lead to big progress.
 
 ---
 
-## 💻 Tech Stack
-
 <div align="center">
+
+## 🎀 My Tech Corner
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=17&duration=2500&pause=1000&color=DB8CC8&center=true&vCenter=true&width=400&lines=Tools+I+use+to+bring+ideas+to+life+%F0%9F%92%BB" alt="Animated tech heading"/>
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" alt="Python, C and C++"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" alt="Python C C++"/>
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=light" alt="Git, GitHub, VS Code and Firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=light" alt="Git GitHub VS Code Firebase"/>
 
 </div>
 
 ---
 
-## 🎀 Featured Projects
+<div align="center">
+
+## 💗 Things I've Been Building
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=500&lines=Ideas+turned+into+projects+%E2%9C%A8;Every+project+is+a+new+lesson+%F0%9F%8C%B8" alt="Animated project introduction"/>
+
+</div>
+
+### 🌸 01 — Stayfind
 
 <div align="center">
 
 <a href="https://mehakpathania07.github.io/Stayfind-app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakpathania07&repo=Stayfind-app&theme=default&bg_color=FFF7FC&title_color=C084FC&icon_color=F472B6&text_color=6B526B&border_color=E9D5FF" alt="Stayfind project card"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,50:F5D0FE,100:E9D5FF&height=125&section=header&text=STAYFIND&fontSize=36&fontColor=754477&animation=twinkling" width="100%" alt="Stayfind animated pink lavender banner"/>
 </a>
 
-<a href="https://github.com/mehakpathania07/Local-link">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakpathania07&repo=Local-link&theme=default&bg_color=FFF7FC&title_color=C084FC&icon_color=F472B6&text_color=6B526B&border_color=E9D5FF" alt="Local-link project card"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=16&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=430&lines=Find+your+next+place+to+stay+%F0%9F%8F%A1;A+stay+and+accommodation+discovery+project" alt="Stayfind typing animation"/>
 
 </div>
 
-**Stayfind** — A stay and accommodation discovery project.
+A web project focused on discovering accommodation options through a simple, user-friendly interface.
 
-**Local-link** — A local services discovery project.
-
-<a href="https://github.com/mehakpathania07?tab=repositories">
-  <img src="https://img.shields.io/badge/More%20Projects-Explore%20Repositories-E9D5FF?style=for-the-badge&logo=github&logoColor=6B3A70" alt="More projects"/>
+<a href="https://mehakpathania07.github.io/Stayfind-app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Stayfind-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Stayfind"/>
+</a>
+<a href="https://github.com/mehakpathania07/Stayfind-app">
+<img src="https://img.shields.io/badge/Source%20Code-View%20Repository-F9A8D4?style=for-the-badge&logo=github&logoColor=white" alt="Stayfind source code"/>
 </a>
 
 ---
 
-## 📊 GitHub Statistics
+### 🦋 02 — Local-link
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehakpathania07&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=C084FC&icon_color=F472B6&text_color=6B526B&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/mehakpathania07/Local-link">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9D5FF,50:FBCFE8,100:FCE7F3&height=125&section=header&text=LOCAL-LINK&fontSize=36&fontColor=754477&animation=twinkling" width="100%" alt="Local-link animated pastel banner"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakpathania07&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=6B526B" alt="Most used programming languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=16&duration=2500&pause=900&color=DB8CC8&center=true&vCenter=true&width=430&lines=Connecting+people+with+local+services+%F0%9F%8C%B7;Making+local+discovery+simple+and+accessible" alt="Local-link typing animation"/>
+
+</div>
+
+A project focused on helping users discover local services through a straightforward interface.
+
+<a href="https://github.com/mehakpathania07/Local-link">
+<img src="https://img.shields.io/badge/Source%20Code-Explore%20Local--link-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="Local-link source code"/>
+</a>
+
+---
+
+<div align="center">
+
+## 🌙 My Coding Journey
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&width=550&lines=Learning+something+new+every+day+%F0%9F%92%AB;Writing+code+and+solving+problems+%F0%9F%92%BB;Growing+into+a+better+developer+%F0%9F%8C%B8" alt="Animated coding journey"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mehakpathania07&hide_border=true&background=FFF7FC&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=6B526B&currStreakNum=6B526B&sideNums=6B526B&dates=9CA3AF" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Garden
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mehakpathania07/mehakpathania07/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-*Keep learning. Keep building. Keep growing.* 🌸
-
-<a href="https://github.com/mehakpathania07">
-  <img src="https://img.shields.io/badge/Let's%20Connect-on%20GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+<a href="https://github.com/mehakpathania07?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-FFC6E5?style=for-the-badge&logo=github&logoColor=754477" alt="Explore repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=100&section=footer" width="100%" alt="Lavender footer"/>
+### Thanks for stopping by! 💕
+
+*Stay curious. Keep creating. Bloom at your own pace.* 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated lavender footer"/>
 
 </div>
